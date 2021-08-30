@@ -1,0 +1,13 @@
+{
+  "name": "CICD2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "François-Xavier Fin <xavierdk@outlook.fr>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
